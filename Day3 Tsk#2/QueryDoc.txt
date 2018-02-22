@@ -1,0 +1,7 @@
+
+
+Ques 4- Get the total ticket amount for each movie theater ie. cinepolis, e-square, carnival and miraj. 
+Ans- select count(ticket_amount),remote from booking_order where remote in ('cinepolis', 'e-square',' carnival','miraj') group by remote;
+
+Question 5-  Get all the bookings not done from web browser. 
+Ans- select * from booking_order where device_type not in ('Web', 'Android Web','Iphone Web');
