@@ -1,0 +1,19 @@
+MoM for Thursady, 22nd 2018  ( Time - 6:30 AM IST):
+
+Attendees : Aditi, Lucas (Project Lead)
+
+Points Discussed:
+
+a) Campaign Summary Project -
+
+
+1. Dummy Structure should be created by us for the Campaign API. That would be having 2 endpoints for now that is - Campaign Summary, Campaign details . 
+2. Api call for pulling in the data from the summary and present it on the first tab of the excel sheet and the
+
+
+a) Pom Application (Side Project) -
+
+
+
+Regards
+Aditi Soni
